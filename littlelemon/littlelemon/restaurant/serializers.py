@@ -21,3 +21,6 @@ class Bookingserializer(serializers.ModelSerializer):
         fields = '__all__'
 
 
+
+
+
